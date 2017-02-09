@@ -1,0 +1,19 @@
+get primitive type-->
+Type Class: class java.lang.Class Type: int
+
+
+/nget parameterized type-->
+Type Class: class sun.reflect.generics.reflectiveObjects.ParameterizedTypeImpl Type: java.util.Map<java.lang.String, ? extends java.lang.Integer>
+
+
+get actual types-->
+Type Class: class java.lang.Class Type: class java.lang.String
+Type Class: class sun.reflect.generics.reflectiveObjects.WildcardTypeImpl Type: ? extends java.lang.Integer
+
+/nget type variables-->
+Type Class: class sun.reflect.generics.reflectiveObjects.TypeVariableImpl Type: E
+
+
+/nget array type-->
+Type Class: class sun.reflect.generics.reflectiveObjects.GenericArrayTypeImpl Type: E[]
+
