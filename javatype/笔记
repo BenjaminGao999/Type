@@ -17,3 +17,6 @@ Type Class: class sun.reflect.generics.reflectiveObjects.TypeVariableImpl Type: 
 /nget array type-->
 Type Class: class sun.reflect.generics.reflectiveObjects.GenericArrayTypeImpl Type: E[]
 
+用T、E、K、V等形式的参数常用于表示泛型形参，他们之间并没有区别。
+
+
